@@ -6,7 +6,7 @@ There is my assignment-2 blockchain homework task.
 
 ### 📦 Firstly, we get Web3 Package, File Package.json
 
-### 🕸️ For this assignment, I use chainLink console with Sepolia TestNet, which was connected to MetaMask.
+### 🕸️ For this assignment, I use chainstack console with Ethereum TestNet, which was connected to MetaMask.
 
 <p align="center">
   <img src = "https://github.com/Zhkslkn/blockchain-assignment2/blob/main/assets/asset-1.png" height=300>
